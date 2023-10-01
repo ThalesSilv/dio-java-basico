@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "meu-primeiro-projeto-java/src",
+        "estudos/tipos-variáveis/src",
+        "estudos/terminal/src",
+        "estudos/Sistema-smart-tv/src",
+        "estudos/Operadores/src",
+        "estudos/terminal/bin"
+    ]
+}
